@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí
 - Estudiante de **Oracle Next Education (ONE)** en Alura Latam.
 - Estudiante de **Ingenieria en desarrollo de software** en Universidad Autonoma de Sinaloa.
-- Apasionado por el desarrollo con **JavaScript, Java**
+- Apasionado por el desarrollo con **JavaScript, Java**.
 - Proyecto destacado: **[Conversor de Monedas](https://github.com/AlanVK13/ConversorDeMonedas)**.
 
 
@@ -12,7 +12,7 @@
 | Lenguajes | Herramientas |
 |-----------|-------------|
 | Java      | Intellij IDEA |
-| JavaScript| Git         |
+| JavaScript| VS Code       |
 | HTML/CSS  | VS Code      |
 
 ### 📂 Repositorios destacados
