@@ -6,15 +6,14 @@
 - Apasionado por el desarrollo con **JavaScript, Java**
 - Proyecto destacado: **[Conversor de Monedas](https://github.com/AlanVK13/ConversorDeMonedas)**.
 
-### 🏆 Insignias
-[![Insignia ONE](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/badges/insignia.png)](enlace-a-alura-si-existe)
-*Logro: Completar el proyecto "Practicando con Java: Challenge Conversor de Monedas".*
+
 
 ### 🔧 Tecnologías
 | Lenguajes | Herramientas |
 |-----------|-------------|
+| Java      | Intellij IDEA |
 | JavaScript| Git         |
-| HTML/CSS  | GitHub      |
+| HTML/CSS  | VS Code      |
 
 ### 📂 Repositorios destacados
 | Repositorio | Descripción |
@@ -24,5 +23,7 @@
 
 ### 📫 Contacto
 ¡Conéctemos en [LinkedIn](https://www.linkedin.com/in/alan-valadez-17074a216/) o escríbeme a alanvaladez665@gmail.com
-### 🎓 Certificaciones
+### 🏆 Insignias
 ![Badge-Conversor](https://github.com/user-attachments/assets/b63c3f48-21d8-418b-b68c-efdb6f4e1e38)
+*Logro: Completar el proyecto "Practicando con Java: Challenge Conversor de Monedas".*
+
