@@ -24,5 +24,5 @@
 ✉️ `alanvaladez665@gmail.com`  
 
 ## 🏆 Insignias  
-[![Insignia ONE](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/badges/insignia-ONE.png)](https://www.aluracursos.com/)  
+[[![Insignia ONE](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/badges/insignia-ONE.png)](https://www.aluracursos.com/)  ](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/Badge-Conversor.png)
 *Completé el "Challenge Conversor" en Java y JavaScript.*  
