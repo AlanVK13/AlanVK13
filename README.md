@@ -27,3 +27,8 @@
 [![Insignia ONE](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/Badge-Conversor.png)  ](https://github.com/AlanVK13/ConversorDeMonedas/blob/main/Badge-Conversor.png)
 
 *Completé el "Challenge Conversor" en Java y JavaScript.*  
+
+[![Insignia Spring Boot](https://github.com/AlanVK13/AlanVK13/blob/main/Badge-Spring.png?raw=true)](https://github.com/AlanVK13/AlanVK13/blob/main/Badge-Spring.png)
+
+*Completé el "Challenge Foro Hub" - CRUD de tópicos - Seguridad con JWT - Base de datos MySQL + Flyway*
+
