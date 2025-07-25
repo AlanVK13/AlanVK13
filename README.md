@@ -4,7 +4,7 @@
 - Estudiante de **Oracle Next Education (ONE)** en Alura Latam.  
 - Estudiante de **Ingeniería en Desarrollo de Software** en la Universidad Autónoma de Sinaloa.  
 - Apasionado por el desarrollo con **Java ☕ y JavaScript 🟨**.  
-- Proyecto destacado: [**https://github.com/AlanVK13/FORO-HUB**](https://github.com/AlanVK13/FORO-HUB)
+- Proyecto destacado: 📂 [FORO-HUB](https://github.com/AlanVK13/FORO-HUB).
 
 ## 🔧 Tecnologías  
 | Lenguajes       | Herramientas      |  
