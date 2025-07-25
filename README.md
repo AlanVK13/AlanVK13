@@ -18,7 +18,7 @@
 |-------------------|-------------|  
 | [Conversor de Monedas](https://github.com/AlanVK13/ConversorDeMonedas) | Conversor de divisas con **JavaScript**. |  
 | [Adivina El Número](https://github.com/AlanVK13/AdivinaElNumero) | Juego de adivinanza en **Java** (Alura Latam). |  
-| 📂 [FORO-HUB](https://github.com/AlanVK13/FORO-HUB) | 
+| 📂 [FORO-HUB](https://github.com/AlanVK13/FORO-HUB) | API REST de un foro con Spring Boot, JWT, JPA y Flyway.  |
 ## 📫 Contacto  
 💼 [LinkedIn](tu-enlace-linkedin)  
 ✉️ `alanvaladez665@gmail.com`  
